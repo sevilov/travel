@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "948130922341",
+    "firebase_url": "https://travelv16-f86ce.firebaseio.com",
+    "project_id": "travelv16-f86ce",
+    "storage_bucket": "travelv16-f86ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948130922341:android:ff0272e8effcd379",
+        "android_client_info": {
+          "package_name": "com.example.ivans.travelv16"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948130922341-4il56t0disb2rgmovtuacdp0j040fk47.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ivans.travelv16",
+            "certificate_hash": "6d8682af9a1c0293127ee37a3534458878b03ca2"
+          }
+        },
+        {
+          "client_id": "948130922341-p74o5vgap8qppdtadas8on7ocf19u3fj.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "948130922341-p74o5vgap8qppdtadas8on7ocf19u3fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJK-7ZtMViWSP2y7c0ypU5EF2fKp-Kl2k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948130922341-p74o5vgap8qppdtadas8on7ocf19u3fj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
